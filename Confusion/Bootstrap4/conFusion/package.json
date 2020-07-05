@@ -1,0 +1,42 @@
+{
+<<<<<<< HEAD
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "This is a website for Ristorante Con Fusion",
+=======
+  "name": "git",
+  "version": "1.0.0",
+  "description": "\"This is a test directory to learn Git and Node\"",
+>>>>>>> edbc10661f1bf1fb52f9b5470153b2a2b3336eaf
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+<<<<<<< HEAD
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+=======
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiuntaG/GIT.git"
+  },
+  "author": "Giunta German",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiuntaG/GIT/issues"
+  },
+  "homepage": "https://github.com/GiuntaG/GIT#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+>>>>>>> edbc10661f1bf1fb52f9b5470153b2a2b3336eaf
+  }
+}
